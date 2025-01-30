@@ -1,14 +1,4 @@
-import java.lang.runtime.SwitchBootstraps;
-
 public class colored {
-    
-    /* String words;
-
-    public colored(String words){
-        this.words = words;
-    }
-    */
-    
 
     public static void color(String color, String userText){
         switch(color.toLowerCase()){
